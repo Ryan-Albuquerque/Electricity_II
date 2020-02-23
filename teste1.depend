@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524338040 source:c:\users\richardson\documents\ryan albuquerque\programação\eletricidade @\teste1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
